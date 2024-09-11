@@ -15,6 +15,16 @@ h1 {
     color: #414B5E;
 }
 .projects {
+    color: #414B5E;
+    margin: 40px;
+    /*color: #87A4DE; */
+
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
     background-color: #406869;
+    a:hover {
+        background-color: #87A4DE;
+      }
 }
 
