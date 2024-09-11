@@ -1,8 +1,6 @@
 
 body {
-    text-align: center;
-    color: grey;
-    background: [burlywood];
+    background-color: [burlywood];
 
     .space-mono-regular {
         font-family: "Space Mono", monospace;
@@ -27,5 +25,10 @@ body {
         font-weight: 700;
         font-style: italic;
       }
+}
+
+h1 {
+    text-align: center;
+    color: #998469;
 }
 
