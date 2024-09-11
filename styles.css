@@ -1,6 +1,7 @@
 
 body {
-    background-color: [burlywood];
+    background-color:burlywood;
+    color: #414B5E;
 
     .space-mono-regular {
         font-family: "Space Mono", monospace;
