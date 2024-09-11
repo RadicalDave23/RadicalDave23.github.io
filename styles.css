@@ -1,7 +1,9 @@
 
 body {
     background-color:burlywood;
-    color: #87A4DE;
+    color: #414B5E;
+    margin: 40px;
+    /*color: #87A4DE; */
 
     font-family: "Space Mono", monospace;
     font-weight: 400;
