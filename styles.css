@@ -1,7 +1,9 @@
-p{
+
+body {
     text-align: center;
     color: grey;
     background: [burlywood];
+
     .space-mono-regular {
         font-family: "Space Mono", monospace;
         font-weight: 400;
