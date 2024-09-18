@@ -19,7 +19,49 @@ a {
 }
 a:hover {color: cornflowerblue;}
 a:visited {color: #406869}
+.about {
+    color: #414B5E;
+    margin: 40px;
+    /*color: #87A4DE; */
+
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-position: center;
+    border: grey, 250px;
+    border-radius: 25px;
+    background-color:#988367
+}
+.skills {
+    color: #414B5E;
+    margin: 40px;
+    /*color: #87A4DE; */
+
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-position: center;
+    border: grey, 250px;
+    border-radius: 25px;
+    background-color:#988367
+}
 .projects {
+    color: #414B5E;
+    margin: 40px;
+    /*color: #87A4DE; */
+
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-position: center;
+    border: grey, 250px;
+    border-radius: 25px;
+    background-color:#988367
+}
+.contact {
     color: #414B5E;
     margin: 40px;
     /*color: #87A4DE; */
@@ -35,4 +77,5 @@ a:visited {color: #406869}
 }
 a:hover
 .projects:hover {background-color:#B69D7A}
+.about:hover {background-color:#B69D7A}
 
