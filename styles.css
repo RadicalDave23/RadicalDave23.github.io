@@ -1,6 +1,6 @@
 
 body {
-    background-color:burlywood;
+    background-color:red;
     color: #414B5E;
     margin: 40px;
     /*color: #87A4DE; */
@@ -60,6 +60,9 @@ a:visited {color: #406869}
     border: grey, 250px;
     border-radius: 25px;
     background-color:#988367
+}
+.project {
+
 }
 .contact {
     color: #414B5E;
