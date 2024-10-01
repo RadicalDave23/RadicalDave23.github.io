@@ -14,14 +14,15 @@ h1 {
     text-align: center;
     color: #414B5E;
 }
+
 a {
-    color:#414B5E
+    color:#414B5E;
 }
-a:hover {color: cornflowerblue;}
-a:visited {color: #406869}
-.about {
+
+.problemStatement {
     color: #414B5E;
     margin: 40px;
+    
     /*color: #87A4DE; */
 
     font-family: "Space Mono", monospace;
@@ -31,11 +32,15 @@ a:visited {color: #406869}
     background-position: center;
     border: grey, 250px;
     border-radius: 25px;
-    background-color:#988367
+    background-color:#988367;
+    a:hover{color: cornflowerblue}
+    a:visited {color: #406869}
 }
-.skills {
+
+.affinityDiagram {
     color: #414B5E;
     margin: 40px;
+    
     /*color: #87A4DE; */
 
     font-family: "Space Mono", monospace;
@@ -45,40 +50,11 @@ a:visited {color: #406869}
     background-position: center;
     border: grey, 250px;
     border-radius: 25px;
-    background-color:#988367
+    background-color:#988367;
+    a:hover{color: cornflowerblue}
+    a:visited {color: #406869}
 }
-.projects {
-    color: #414B5E;
-    margin: 40px;
-    /*color: #87A4DE; */
 
-    font-family: "Space Mono", monospace;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-    background-position: center;
-    border: grey, 250px;
-    border-radius: 25px;
-    background-color:#988367
-}
-.project {
-
-}
-.contact {
-    color: #414B5E;
-    margin: 40px;
-    /*color: #87A4DE; */
-
-    font-family: "Space Mono", monospace;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-    background-position: center;
-    border: grey, 250px;
-    border-radius: 25px;
-    background-color:#988367
-}
-a:hover
-.projects:hover {background-color:#B69D7A}
-.about:hover {background-color:#B69D7A}
+.problemStatement:hover {background-color:#B69D7A}
+.affinityDiagram:hover {background-color:#B69D7A}
 
