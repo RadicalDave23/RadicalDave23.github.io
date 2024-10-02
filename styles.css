@@ -17,7 +17,7 @@ h1
     color: #414B5E;
 }
 
-a {color:#414B5E;}
+a {color:#414B5E; text-decoration: none;}
 
 .projects {
     color: #414B5E;
@@ -57,7 +57,8 @@ a {color:#414B5E;}
 .project a
 {
     :hover{color: cornflowerblue;}
-    :visited {color: #406869}
+    :active{color: blue;}
+    :visited {color: blue;}
 }
 .project:hover {background-color:#B69D7A}
 
