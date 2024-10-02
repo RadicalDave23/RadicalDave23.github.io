@@ -17,7 +17,11 @@ h1
     color: #414B5E;
 }
 
-a {color:#414B5E; text-decoration: none;}
+a 
+{
+    color:#414B5E; text-decoration: none;
+    :hover{color: cornflowerblue;}
+}
 
 .projects {
     color: #414B5E;
@@ -34,7 +38,7 @@ a {color:#414B5E; text-decoration: none;}
 
 .project
 {
-    background-color: rgb(204, 164, 113);
+    background-color: #C0A075;
     border: rgb(154, 125, 87), 150px;
     border-radius: 25px;
     margin-top: 10px;
@@ -56,10 +60,10 @@ a {color:#414B5E; text-decoration: none;}
 
 .project a
 {
-    :hover{color: cornflowerblue;}
+    width: 60px;
     :active{color: blue;}
     :visited {color: blue;}
 }
-.project:hover {background-color:#B69D7A}
+.project:hover {background-color:#988469}
 
 
