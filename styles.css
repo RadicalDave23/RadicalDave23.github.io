@@ -1,5 +1,6 @@
 
-body {
+body 
+{
     background-color:burlywood;
     color: #414B5E;
     margin: 40px;
@@ -10,14 +11,13 @@ body {
     font-style: normal;
 }
 
-h1 {
+h1 
+{
     text-align: center;
     color: #414B5E;
 }
 
-a {
-    color:#414B5E;
-}
+a {color:#414B5E;}
 
 .projects {
     color: #414B5E;
@@ -29,26 +29,36 @@ a {
     font-weight: 400;
     font-style: normal;
     text-align: center;
-    border: grey, 150px;
-    border-radius: 25px;
-    background-color:#988367;
+    background-color:burlywood;
 }
 
-.project img{
+.project
+{
+    background-color: rgb(204, 164, 113);
+    border: rgb(154, 125, 87), 150px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.project img
+{
     width: 800px;
-    height: 300px;
+    /*height: 300px;*/
     display: block;
     margin: auto;
     background-position: center;
-    a:hover
-    {
-        color: cornflowerblue;
-        border: grey, 150px;
-        border-radius: 25px;
-    }
-    a:visited {color: #406869}
-    }
+    border: 150px;
+    border-radius: 25px;
 
+}
+
+.project a
+{
+    :hover{color: cornflowerblue;}
+    :visited {color: #406869}
+}
 .project:hover {background-color:#B69D7A}
 
 
